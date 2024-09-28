@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./banner.png)
 
 # 💫 About Me:
 <a href="#"><img align="right" width="40%"  src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="225px"/></a>
