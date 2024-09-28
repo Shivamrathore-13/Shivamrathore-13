@@ -1,7 +1,7 @@
-<h2><center>Welcome</center></h2>
+
 
 # 💫 About Me:
-<a href="#"><img align="right" width="50%" height="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="120px"/></a>
+<a href="#"><img align="right" width="40%"  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="225px"/></a>
  -👋 Hi, I’m  Shivam Rathore<br>- ✨ I'm Frontend Web Developer<br>- 👀 I’m interested in Data Science<br>- 🌱 I’m currently learning LLM<br>- 💞️ I’m looking to collaborate on Interactive Web Dev<br>- 📫 How to reach me shivamrathoresgnr@gmail.com <br>- ⚡ Fun fact: Even I don't know how my code is working
  
 
